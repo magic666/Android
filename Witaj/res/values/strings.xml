@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Witaj</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="aktywnosc_1_text">Naciśnij start aby rozpocząć!</string>
+    <string name="komunikat1">Podaj swoje imię</string>
+    <string name="nazwa_przycisku">Kliknij</string>
+    <string name="nazwa_przycisku2">Aplikacja Wita Toastem</string>
+    <string name="but_start">Start!</string>
+    
+
+</resources>
